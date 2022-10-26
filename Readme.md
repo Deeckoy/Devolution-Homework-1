@@ -2,4 +2,4 @@
 
 ## Homework 1. **HTML Basics**
 
-Github Pages link: `coming soon`
+Github Pages link: [`Click here`](https://deeckoy.github.io/Devolution-Homework-1/)
